@@ -1,0 +1,11 @@
+name = "Colada"
+uuid = "9501902f-c86b-429f-b9bf-46b1e101bb8d"
+authors = ["kerim371 <kerim.khemraev@mail.ru>"]
+version = "0.1.0"
+
+[deps]
+JUDI = "f3b833dc-6b2e-5b9c-b940-873ed6319979"
+
+[compat]
+JUDI = "2.6.3"
+julia = "1.6.5"
